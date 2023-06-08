@@ -1,3 +1,8 @@
+## Integrantes
+*Pedro Henrique Andreatti
+*Guilherme Max Pereira
+*Bruna Bravo
+
 ## Este projeto foi feito com:
 
 * [Python 3.10.4](https://www.python.org/)
@@ -7,12 +12,15 @@
 * [htmx 1.6.1](https://htmx.org/)
 
 ## Como rodar o projeto?
-
+* PRIMEIRO BAIXAR ARQUIVO WINRAR E DESCOMPACTAR
 * Clone esse repositório.
 * Crie um virtualenv com Python 3.
 * Ative o virtualenv.
 * Instale as dependências.
 * Rode as migrações.
+
+##LINK DO REPLIT 
+*https://replit.com/@pedrohenriquean/Projeto-python?v=1
 
 ```
 git clone https://github.com/Pedro-devs/django-experience.git
