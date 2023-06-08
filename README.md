@@ -1,7 +1,7 @@
 ## Integrantes
-*Pedro Henrique Andreatti
-*Guilherme Max Pereira
-*Bruna Bravo
+* Pedro Henrique Andreatti
+* Guilherme Max Pereira
+* Bruna Bravo
 
 ## Este projeto foi feito com:
 
@@ -20,7 +20,7 @@
 * Rode as migrações.
 
 ##LINK DO REPLIT 
-*https://replit.com/@pedrohenriquean/Projeto-python?v=1
+* https://replit.com/@pedrohenriquean/Projeto-python?v=1
 
 ```
 git clone https://github.com/Pedro-devs/django-experience.git
